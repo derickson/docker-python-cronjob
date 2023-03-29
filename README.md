@@ -1,5 +1,8 @@
 # docker-python-cronjob
 Run python script as a cron job using Docker
+
+Tested 2023-03-29
+
 ## Build Docker
 ```
 docker build -t "python-cron:latest" .
